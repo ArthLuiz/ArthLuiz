@@ -9,7 +9,7 @@ Desenvolvo aplicações web do banco de dados ao deploy, com foco em TypeScript 
 - **Front-end:** React, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind CSS
 - **Back-end:** Node.js, APIs REST, Prisma ORM, autenticação com NextAuth
 - **Banco de dados:** PostgreSQL
-- **Ferramentas e infraestrutura:** Git, GitHub, Vercel, Railway
+- **Ferramentas e infraestrutura:** Git, GitHub, Vercel, Railway, Neon
 
 ## Projeto em destaque
 
